@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a3001d55-efd1-4864-9c59-205565ab7feb
+
 SMART NUTRI TRACKER :
 
 -The Smart Nutrition Tracker is an AI-powered mobile application (using React Native) that helps users monitor their daily nutritional intake by analyzing images of meals captured through the smartphone camera. 
