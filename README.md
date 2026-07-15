@@ -1,6 +1,9 @@
 
 
-https://github.com/user-attachments/assets/a3001d55-efd1-4864-9c59-205565ab7feb
+
+
+Uploading Smart Nutri Tracker Demonstartion Video.mp4…
+
 
 SMART NUTRI TRACKER :
 
